@@ -1,76 +1,73 @@
+# 📜 Fluxogramas de Licitações e Contratos - Lei 14.133/2021  
 
-### 12. README.md
+📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos).  
 
-```markdown
-# Fluxogramas de Licitações e Contratos - Lei 14.133/2021
+## 🚀 Navegue pelos fluxogramas  
 
-Este repositório contém fluxogramas detalhados para os diversos procedimentos de contratação pública conforme a Lei 14.133/2021 (Nova Lei de Licitações e Contratos) e outras legislações aplicáveis.
+### 📂 **Modalidades de Licitação**  
+🔹 [Pregão Eletrônico](pregao-eletronico.md)  
+🔹 [Concorrência](concorrencia.md)  
+🔹 [Concurso](concurso.md)  
+🔹 [Leilão](leilao.md)  
+🔹 [Diálogo Competitivo](dialogo-competitivo.md)  
+🔹 [Pregão Presencial](pregao-presencial.md)  
 
-## Modalidades de Licitação
+### ⚡ **Contratação Direta**  
+🔸 [Dispensa Eletrônica](dispensa-eletronica.md)  
+🔸 [Inexigibilidade](inexigibilidade.md)  
 
-1. [Pregão Eletrônico](pregao-eletronico.md)
-2. [Concorrência](concorrencia.md)
-3. [Concurso](concurso.md)
-4. [Leilão](leilao.md)
-5. [Diálogo Competitivo](dialogo-competitivo.md)
-6. [Pregão Presencial](pregao-presencial.md)
+### 📌 **Procedimentos Auxiliares**  
+📖 [Sistema de Registro de Preços](registro-de-precos.md)  
 
-## Contratação Direta
-
-1. [Dispensa Eletrônica](dispensa-eletronica.md)
-2. [Inexigibilidade](inexigibilidade.md)
-
-## Procedimentos Auxiliares
-
-1. [Sistema de Registro de Preços](registro-de-precos.md)
-
-## Instrumentos de Cooperação
-
-1. [Acordo de Cooperação](acordo-de-cooperacao.md)
-2. [Convênios](convenios.md)
-
-## Como utilizar
-
-Cada arquivo contém um fluxograma detalhado em formato Mermaid, que é renderizado automaticamente pelo GitHub. Os fluxogramas incluem:
-
-- Etapas do processo
-- Pontos de decisão
-- Interações departamentais
-- Requisitos específicos
-- Documentos necessários
-- Check lists
-- Características específicas de cada modalidade/procedimento
-
-## Estrutura dos Fluxogramas
-
-Cada fluxograma segue uma estrutura padronizada que inclui:
-
-1. **Início e Diretoria Demandante**: Onde o processo se inicia
-2. **Fluxo entre departamentos**: Mostra o caminho do processo entre os setores
-3. **Verificação de documentação**: Etapas de conferência e análise
-4. **Elaboração de documentos técnicos**: Preparação dos documentos necessários
-5. **Pareceres jurídicos e de controle**: Análises de legalidade
-6. **Autorização e publicação**: Etapas de aprovação e divulgação
-7. **Execução do procedimento**: Realização da modalidade específica
-8. **Contratação e gestão**: Formalização e acompanhamento
-9. **Finalização**: Encerramento e arquivamento
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você identificar melhorias ou atualizações necessárias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este material é disponibilizado sob a licença [MIT](LICENSE).
-
-## Referências
-
-- Lei 14.133/2021 (Nova Lei de Licitações e Contratos)
-- Decreto nº 10.024/2019 (Pregão Eletrônico)
-- Decreto nº 7.892/2013 (Sistema de Registro de Preços)
-- Instruções Normativas da SEGES/ME
-- Jurisprudência do TCU
+### 🤝 **Instrumentos de Cooperação**  
+🤝 [Acordo de Cooperação](acordo-de-cooperacao.md)  
+📜 [Convênios](convenios.md)  
 
 ---
 
-Desenvolvido por Diego Maldonado para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.
+## 📖 Como utilizar?  
+Cada arquivo contém fluxogramas em formato **Mermaid**, renderizados automaticamente pelo GitHub. Os fluxogramas incluem:  
+
+✔ Etapas do processo  
+✔ Pontos de decisão  
+✔ Interações entre departamentos  
+✔ Documentação exigida  
+✔ Pareceres jurídicos  
+
+---
+
+## 🏗 Estrutura dos Fluxogramas  
+
+1️⃣ **Início e Diretoria Demandante** 🏛  
+2️⃣ **Fluxo entre departamentos** 🔄  
+3️⃣ **Verificação de documentos** 📑  
+4️⃣ **Elaboração de pareceres técnicos** 📋  
+5️⃣ **Aprovação e publicação** ✅  
+6️⃣ **Execução do procedimento** ⚙  
+7️⃣ **Contratação e gestão** 📜  
+8️⃣ **Finalização e arquivamento** 🗂  
+
+---
+
+## 👥 Como contribuir?  
+
+💡 Identificou melhorias ou atualizações necessárias?  
+Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!  
+
+---
+
+## 📜 Referências  
+
+📕 **Lei 14.133/2021** (Nova Lei de Licitações e Contratos)  
+📘 **Decreto nº 10.024/2019** (Pregão Eletrônico)  
+📗 **Decreto nº 7.892/2013** (Sistema de Registro de Preços)  
+⚖ **Jurisprudência do TCU**  
+
+📌 **Desenvolvido por @md_web3 e @md__web3 para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.**  
+📜 **Licença**: [MIT](LICENSE)  
+
+📩 *Dúvidas ou sugestões? Entre em contato!*  
+
+---
+
+🌟 **Se este repositório foi útil para você, deixe uma ⭐ estrela!**  
