@@ -73,4 +73,4 @@ Este material é disponibilizado sob a licença [MIT](LICENSE).
 
 ---
 
-Desenvolvido para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.
+Desenvolvido por Diego Maldonado para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.
