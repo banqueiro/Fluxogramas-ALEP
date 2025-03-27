@@ -1,4 +1,5 @@
-# 📜 Fluxogramas de Licitações e Contratos - Lei 14.133/2021  
+# 📜 Fluxogramas da Diretoria de Apoio Técnico DAT da Assembleia Legislativa do Paraná
+  📌 Licitações e Contratos - Lei 14.133/2021  
 
 📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos).  
 
