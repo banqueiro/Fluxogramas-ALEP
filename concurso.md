@@ -1,7 +1,3 @@
-
-### 3. concurso.md
-
-```markdown
 # Fluxograma de Concurso - Lei 14.133/2021
 
 ```mermaid
