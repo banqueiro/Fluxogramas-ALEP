@@ -1,7 +1,3 @@
-
-### 2. concorrencia.md
-
-```markdown
 # Fluxograma de Concorrência - Lei 14.133/2021
 
 ```mermaid
