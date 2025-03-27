@@ -39,10 +39,10 @@
 ## 📖 Como utilizar?  
 Cada arquivo contém fluxogramas em formato **Mermaid**, renderizados automaticamente pelo GitHub. Os fluxogramas incluem:  
 
-✔ Distinção de Coordenadorias
-✔ Fluxos de Atividades 
+✔ Distinção de Coordenadorias  
+✔ Fluxos de Atividades  
 ✔ Etapas do processo  
-✔ Pontos de decisão  
+✔ Pontos de decisão    
 ✔ Interações entre departamentos  
 ✔ Documentação exigida  
 ✔ Pareceres jurídicos  
