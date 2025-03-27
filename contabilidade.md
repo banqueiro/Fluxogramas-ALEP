@@ -1,24 +1,36 @@
 # Fluxograma da Coordenadoria de Contabilidade - DAT
 
 ```mermaid
-
 flowchart TD
-    A["Início do Processo Contábil: Recebimento da documentação necessária para os registros contábeis, como notas fiscais e comprovantes."] --> B["Recebimento e conferência da documentação fiscal entregue pelos setores responsáveis, garantindo a conformidade com as normas."] 
-    B --> C["Análise e classificação dos documentos recebidos, categorizando-os corretamente de acordo com os princípios contábeis vigentes."]
-    C --> D["Registro das informações no sistema contábil oficial, garantindo o correto lançamento de cada item conforme a legislação aplicável."]
-    D --> E{"Verificação da integridade da documentação e do correto preenchimento dos dados informados para evitar inconsistências contábeis."}
-    E -->|Não| F["Caso faltem documentos ou haja informações incorretas, será solicitada a complementação da documentação junto ao setor responsável."]
+    A["Início do Processo Contábil"] --> B["Recebimento de Documentação Fiscal"]
+    B --> C["Análise e Classificação Contábil"]
+    C --> D["Registro no Sistema Contábil"]
+    D --> E{"Documentação Completa?"}
+    E -->|Não| F["Solicitar Documentação Complementar"]
     F --> B
-    E -->|Sim| G["Com toda a documentação correta, são elaborados os relatórios contábeis, como balancetes e demonstrações financeiras."]
-    G --> H["Realização da conciliação bancária para garantir que os lançamentos contábeis estejam compatíveis com os extratos das contas da instituição."]
-    H --> I["Fechamento mensal das contas contábeis, consolidando as informações financeiras e contábeis de cada período."]
-    I --> J["Elaboração de demonstrativos contábeis obrigatórios, como balanço patrimonial, demonstração do resultado e fluxo de caixa."]
-    J --> K["Análise de conformidade dos lançamentos contábeis, garantindo que todas as informações estejam corretas e atendam às normas vigentes."]
-    K --> L{"A documentação contábil e os lançamentos estão em conformidade com as exigências legais?"}
-    L -->|Não| M["Caso haja erros ou inconsistências, são feitos os ajustes contábeis necessários para regularizar os registros."]
+    E -->|Sim| G["Elaboração de Relatórios Contábeis"]
+    G --> H["Conciliação Bancária"]
+    H --> I["Fechamento Mensal"]
+    I --> J["Elaboração de Demonstrativos Contábeis"]
+    J --> K["Análise de Conformidade"]
+    K --> L{"Conformidade OK?"}
+    L -->|Não| M["Ajustes Contábeis"]
     M --> K
-    L -->|Sim| N["Após a conferência final, os documentos são enviados ao Tribunal de Contas para prestação de contas e auditorias."]
-    N --> O["Os documentos são arquivados digitalmente para garantir a rastreabilidade e facilitar futuras consultas."]
-    O --> P["Elaboração de relatórios gerenciais para apoio à tomada de decisão e transparência da gestão financeira."]
-    P --> Q["Realização da prestação de contas anual, consolidando os dados contábeis do exercício."]
-    Q --> R["Encerramento do processo contábil após a devida prestação de contas."]
+    L -->|Sim| N["Envio ao Tribunal de Contas"]
+    N --> O["Arquivamento Digital"]
+    O --> P["Elaboração de Relatórios Gerenciais"]
+    P --> Q["Prestação de Contas Anual"]
+    Q --> R["Fim do Processo"]
+    
+    subgraph "Processos Periódicos"
+    S["Elaboração da Proposta Orçamentária"] --> T["Acompanhamento da Execução Orçamentária"]
+    T --> U["Remanejamentos Orçamentários"]
+    U --> V["Suplementações Orçamentárias"]
+    end
+    
+    subgraph "Processos Específicos"
+    W["Registro Patrimonial"] --> X["Depreciação de Bens"]
+    X --> Y["Inventário Anual"]
+    Y --> Z["Baixa de Bens"]
+    end
+
