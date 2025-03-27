@@ -1,19 +1,19 @@
-# 📜 Fluxogramas da Diretoria de Apoio Técnico DAT 
+# 📜 Fluxogramas da Diretoria de Apoio Técnico - DAT 
 ## Assembleia Legislativa do Paraná
   📌 Licitações e Contratos - Lei 14.133/2021  
 
-📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos).  
+📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos), bem como o mapeamento das atividades desta diretoria.  
 
 
-## 🏢 **Coordenadorias DAT**
+## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
 
-💼 [Coordenadoria de Contabilidade](contabilidade.md)
-📣 [Coordenadoria de Publicidade](publicidade.md)
-📋 [Coordenadoria de Licitação](licitacao-dat.md)
-📝 [Coordenadoria de Contratos](contratos.md)
+💼 [Coordenadoria ou Segmento de Contabilidade](contabilidade.md)
+📣 [Coordenadoria ou Segmento de Publicidade](publicidade.md)
+📋 [Coordenadoria ou Segmento de Licitação](licitacao-dat.md)
+📝 [Coordenadoria ou Segmento de Contratos](contratos.md)
 
 
-## 🚀 Navegue pelos fluxogramas  
+## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
 
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
