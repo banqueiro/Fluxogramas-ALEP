@@ -5,7 +5,8 @@
 📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos).  
 
 
-🏢 **Coordenadorias DAT**
+## 🏢 **Coordenadorias DAT**
+
 💼 [Coordenadoria de Contabilidade](contabilidade.md)
 📣 [Coordenadoria de Publicidade](publicidade.md)
 📋 [Coordenadoria de Licitação](licitacao-dat.md)
