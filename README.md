@@ -18,6 +18,7 @@
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
 🔹 [Concorrência](concorrencia.md)  
+🔹 [Concurso](concurso.md)  
 🔹 [Leilão](leilao.md)  
 🔹 [Diálogo Competitivo](dialogo-competitivo.md)  
 🔹 [Pregão Presencial](pregao-presencial.md)  
