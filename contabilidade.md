@@ -1,7 +1,7 @@
 # Fluxograma da Coordenadoria de Contabilidade - DAT
 
 ```mermaid
-flowchart TD
+flowchart LR
     A["Início do Processo Contábil"] --> B["Recebimento de Documentação Fiscal"]
     B --> C["Análise e Classificação Contábil"]
     C --> D["Registro no Sistema Contábil"]
