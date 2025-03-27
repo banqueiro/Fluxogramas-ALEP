@@ -4,6 +4,14 @@
 
 📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos).  
 
+
+🏢 **Coordenadorias DAT**
+💼 [Coordenadoria de Contabilidade](contabilidade.md)
+📣 [Coordenadoria de Publicidade](publicidade.md)
+📋 [Coordenadoria de Licitação](licitacao-dat.md)
+📝 [Coordenadoria de Contratos](contratos.md)
+
+
 ## 🚀 Navegue pelos fluxogramas  
 
 ### 📂 **Modalidades de Licitação**  
@@ -30,6 +38,8 @@
 ## 📖 Como utilizar?  
 Cada arquivo contém fluxogramas em formato **Mermaid**, renderizados automaticamente pelo GitHub. Os fluxogramas incluem:  
 
+✔ Distinção de Coordenadorias
+✔ Fluxos de Atividades 
 ✔ Etapas do processo  
 ✔ Pontos de decisão  
 ✔ Interações entre departamentos  
