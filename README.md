@@ -9,7 +9,7 @@
 
 💼 [Coordenadoria ou Segmento de Contabilidade](contabilidade.md)  
 📣 [Coordenadoria ou Segmento de Publicidade](publicidade.md)  
-📋 [Coordenadoria ou Segmento de Licitação](licitacao-dat.md)  
+📋 [Coordenadoria ou Segmento de Suprimentos](licitacao-dat.md)  
 📝 [Coordenadoria ou Segmento de Contratos](contratos.md)  
 
 
