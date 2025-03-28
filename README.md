@@ -25,6 +25,7 @@
 
 ### ⚡ **Contratação Direta**  
 🔸 [Dispensa Eletrônica](dispensa-eletronica.md)  
+🔸 [Dispensa de Licitação](dispensa-lic.md)  
 🔸 [Inexigibilidade](inexigibilidade.md)  
 
 ### 📌 **Procedimentos Auxiliares**  
