@@ -8,7 +8,7 @@
 ## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
 
 💼 [Coordenadoria ou Segmento de Contabilidade](contabilidade.md)  
-📣 [Coordenadoria ou Segmento de Publicidade](publicidade.md)  
+📣 [Coordenadoria ou Segmento de Publicidade](pub.md)  
 📋 [Coordenadoria ou Segmento de Suprimentos](licitacao-dat.md)  
 📝 [Coordenadoria ou Segmento de Contratos](contratos.md)  
 
