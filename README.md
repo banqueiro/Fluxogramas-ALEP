@@ -17,7 +17,7 @@
 
 ### 📣 **Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
-🔹 [Autorização de Despesas de Publicidade](autorizacao-despesa-pub.md)  
+🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
 
 ### 📂 **Modalidades de Licitação**  
