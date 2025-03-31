@@ -1,60 +1,76 @@
-# Fluxograma de Solicitação/Autorização da Despesa - Publicidade
+##Processo de Pagamento Publicidade
 
-```mermaid
 flowchart TD
-    A["Início do Processo"] --> B["Diretoria de Comunicação (DC):<br>Elaboração da Solicitação"]
-    B --> C["Elaborar Briefing da Campanha"]
-    C --> D["Definir Objetivo da Campanha"]
-    D --> E["Estimar Valor da Campanha"]
-    E --> F["Encaminhar para DG"]
+    A["Início do Processo"] --> B["DAT - Publicidade:<br>Verificação Inicial"]
+    B --> C["Fazer Check List no Drive"]
+    C --> D{"Documentação adequada?"}
+    D -->|Não| E["Enviar para pasta de pendência"]
+    E --> C
+    D -->|Sim| F["Passar para pasta Notas Protocoladas"]
     
-    F --> G["Diretoria Geral (DG):<br>Análise Inicial"]
-    G --> H["Verificar Solicitação"]
-    H --> I["Encaminhar para DAT"]
+    F --> G["DAT - Publicidade:<br>Abertura do Processo"]
+    G --> H["Abrir processo no SEI"]
+    H --> I["Vincular ao processo do empenho"]
+    I --> J["Alimentar planilha de controle"]
+    J --> K["Fazer despacho de encaminhamento (Anexo I)"]
+    K --> L["Fazer informação certificação (Anexo II)"]
+    L --> M["Realizar conferência Administrativa"]
+    M --> N["Assinar Despacho e inserir no Bloco"]
+    N --> O["Encaminhar para DC/Marketing"]
     
-    I --> J["DAT:<br>Análise Técnica"]
-    J --> K["Verificar Disponibilidade Orçamentária"]
-    K --> L["Elaborar Despacho Técnico"]
-    L --> M["Encaminhar para DG"]
+    O --> P["DC - Marketing:<br>Conferência Técnica"]
+    P --> Q["Realizar conferência técnica"]
+    Q --> R["Assinar despacho de encaminhamento"]
+    R --> S["DAT - Publicidade:<br>Continuação do Processo"]
+    S --> T["Inserir certificação no bloco"]
+    T --> U["Informar Fiscal para assinar o bloco"]
+    U --> V["Informar DC/Comunicação para assinar certificação"]
     
-    M --> N["DG:<br>Encaminhamento para Autorização"]
-    N --> O["Encaminhar para Comissão Executiva"]
+    V --> W["DC:<br>Encaminhamento para Contabilidade"]
+    W --> X["Inserir despacho para contabilidade (Anexo III)"]
+    X --> Y["Diretor assina certificação e despacho"]
+    Y --> Z["Enviar processo para DAT/Contabilidade"]
     
-    O --> P["Comissão Executiva:<br>Análise e Autorização"]
-    P --> Q{"Autorizado?"}
-    Q -->|Não| R["Devolver com Justificativa"]
-    R --> B
-    Q -->|Sim| S["Autorizar Campanha"]
+    Z --> AA["DAT - Coord. de Contabilidade:<br>Liquidação"]
+    AA --> AB["Elaborar e inserir liquidação no processo"]
+    AB --> AC["Enviar processo para DAT"]
     
-    S --> T["DG:<br>Encaminhamento para Execução"]
-    T --> U["Encaminhar para DC"]
+    AC --> AD["DAT:<br>Encaminhamento para DG"]
+    AD --> AE["Enviar processo para DG"]
     
-    U --> V["DC:<br>Solicitação para Agência"]
-    V --> W["Elaborar Ordem de Serviço"]
-    W --> X["Encaminhar Briefing para Agência"]
+    AE --> AF["DG:<br>Verificação e Encaminhamento"]
+    AF --> AG["Verificar requisitos contratuais"]
+    AG --> AH["Encaminhar para Diretoria Financeira"]
     
-    X --> Y["Agência de Publicidade:<br>Desenvolvimento da Campanha"]
-    Y --> Z["Elaborar Proposta Criativa"]
-    Z --> AA["Elaborar Plano de Mídia"]
-    AA --> AB["Apresentar para DC"]
+    AH --> AI["DF:<br>Emissão de Ordem de Pagamento"]
+    AI --> AJ["Verificar requisitos contratuais"]
+    AJ --> AK["Emitir Ordem de Pagamento"]
+    AK --> AL["DG:<br>Encaminhamento para Autorização"]
     
-    AB --> AC["DC:<br>Análise da Proposta"]
-    AC --> AD{"Proposta Aprovada?"}
-    AD -->|Não| AE["Solicitar Ajustes"]
-    AE --> Y
-    AD -->|Sim| AF["Aprovar Campanha"]
+    AL --> AM["1ª Secretaria / Presidência:<br>Autorização"]
+    AM --> AN["Assinar Ordem de Pagamento"]
     
-    AF --> AG["DC:<br>Autorização para Execução"]
-    AG --> AH["Emitir Autorização de Veiculação"]
-    AH --> AI["Encaminhar para DAT"]
+    AN --> AO["DF:<br>Pagamento"]
+    AO --> AP["Realizar pagamento à agência"]
+    AP --> AQ["Enviar Ordem de Pagamento por e-mail para DAT/Publicidade"]
     
-    AI --> AJ["DAT:<br>Registro e Controle"]
-    AJ --> AK["Registrar Campanha no Sistema"]
-    AK --> AL["Atualizar Planilha de Controle"]
-    AL --> AM["Fim do Processo de Solicitação"]
+    AQ --> AR["DAT - Publicidade:<br>Registro do Pagamento"]
+    AR --> AS["Salvar Ordem de Pagamento no Drive"]
     
-    subgraph "Observações Importantes"
-    OBS1["Recomenda-se prévia confirmação de saldos orçamentário e financeiro"]
-    OBS2["Dotação e disponibilidade devem ser confirmadas pela Coord. de Contabilidade"]
-    OBS3["Incluir Plano de Mídia atualizado após finalização da Campanha"]
+    AS --> AT["Fornecedor:<br>Comprovação de Pagamento"]
+    AT --> AU["Salvar comprovante de pagamento no Drive (5 dias úteis)"]
+    
+    AU --> AV["DAT - Publicidade:<br>Finalização do Processo"]
+    AV --> AW["Conferir comprovante de Pagamento"]
+    AW --> AX["Subir documento no processo SEI"]
+    AX --> AY["Atualizar planilha de Controle"]
+    AY --> AZ["Finalizar processo no SEI"]
+    AZ --> BA["Fim do Processo"]
+    
+    subgraph "Prazos Médios"
+    PM1["Conferência técnica: 1 dia útil"]
+    PM2["Liquidação: 1 dia útil"]
+    PM3["Autorização: 2 dias úteis"]
+    PM4["Pagamento: 1 dia útil"]
+    PM5["Total do processo: 10 dias úteis"]
     end
