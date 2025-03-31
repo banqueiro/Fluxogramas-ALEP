@@ -15,6 +15,11 @@
 
 ## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
 
+### 📣 **Publicidade** 
+🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
+🔹 [Autorização de Despesas de Publicidade](autorizacao-despesa-pub.md)  
+
+
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
 🔹 [Concorrência](concorrencia.md)  
