@@ -1,4 +1,4 @@
-# Fluxograma da Coordenadoria de Licitação - DAT
+# Fluxograma do Segmento de Suprimentos - DAT
 
 ```mermaid
 flowchart TD
