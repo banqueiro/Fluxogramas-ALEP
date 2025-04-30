@@ -42,11 +42,11 @@ flowchart TD
     U1 --> V
     
     %% Fase de Análise Jurídica
-    U --> V["Encaminhamento para Análise Jurídica"]
+    U --> V["Encaminhamento para Procuradoria Análise Jurídica"]
     V --> W{"Parecer Jurídico Favorável?"}
     W -->|Não| X["Ajustes na Minuta do Edital"]
     X --> V
-    W -->|Sim| Y["DAT: Publicação do Edital"]
+    W -->|Sim| Y["DAT: Publicação do Edital ou Aviso de Dispensa Eletrônica"]
     
     %% Fase de Publicação e Divulgação
     Y --> Z["Publicação no Diário Oficial"]
@@ -95,10 +95,10 @@ flowchart TD
     BE --> BF{"Homologado?"}
     BF -->|Não| BG["Revogação ou Anulação da Licitação"]
     BF -->|Sim| BH["Publicação do Resultado"]
-    BH --> BI["Emissão de Nota de Empenho"]
-    BI --> BJ["Convocação do Licitante para Assinatura do Contrato"]
-    BJ --> BK["Assinatura do Contrato"]
-    BK --> BL["Publicação do Extrato do Contrato"]
+    BH --> BI["Convocação do Licitante para Assinatura do Contrato"]
+    BI --> BJ["Assinatura do Contrato"]
+    BJ --> BK["Publicação do Extrato do Contrato"]
+    BK --> BL["Emissão de Nota de Empenho"]
     BL --> BM["Designação de Gestor e Fiscal do Contrato"]
     BM --> BN["Encaminhamento para Gestão de Contratos"]
     BN --> BO["Fim do Processo Licitatório"]
