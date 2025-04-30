@@ -2,16 +2,7 @@
 
 ```mermaid
 flowchart TD
-    A["Recebimento do Processo Licitatório Concluído"] --> B["Elaboração da Minuta do Contrato"]
-    B --> C["Análise Jurídica da Minuta"]
-    C --> D{"Parecer Favorável?"}
-    D -->|Não| E["Ajustes na Minuta"]
-    E --> C
-    D -->|Sim| F["Convocação do Fornecedor"]
-    F --> G["Assinatura do Contrato"]
-    G --> H["Publicação do Extrato do Contrato"]
-    H --> I["Designação de Fiscal e Gestor do Contrato"]
-    I --> J["Reunião Inicial com Contratada"]
+    J["Reunião Inicial com Contratada"]
     J --> K["Início da Execução Contratual"]
     
     K --> L["Acompanhamento da Execução"]
