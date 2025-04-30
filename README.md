@@ -5,7 +5,7 @@
 📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos), bem como o mapeamento das atividades desta diretoria.  
 
 
-## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
+## 🏢 **Mapeamento de Processos dos Segmentos da Diretoria de Apoio Técnico - DAT**
 📜 [Fluxograma Geral](geral.md)  
 
 
@@ -21,8 +21,9 @@
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
 
-## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
 
+
+### 🚀 **Atividades do Segmento de Suprimentos**  
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
 🔹 [Concorrência](concorrencia.md)  
@@ -30,15 +31,12 @@
 🔹 [Leilão](leilao.md)  
 🔹 [Diálogo Competitivo](dialogo-competitivo.md)  
 🔹 [Pregão Presencial](pregao-presencial.md)  
-
 ### ⚡ **Contratação Direta**  
 🔸 [Dispensa Eletrônica](dispensa-eletronica.md)  
 🔸 [Dispensa de Licitação](dispensa-lic.md)  
 🔸 [Inexigibilidade](inexigibilidade.md)  
-
 ### 📌 **Procedimentos Auxiliares**  
 📖 [Sistema de Registro de Preços](registro-de-precos.md)  
-
 ### 🤝 **Instrumentos de Cooperação**  
 🤝 [Acordo de Cooperação](acordo-de-cooperacao.md)  
 📜 [Convênios](convenios.md)  
