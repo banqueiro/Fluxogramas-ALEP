@@ -6,8 +6,8 @@ graph TD
 
     subgraph Pedido de Férias
         B1 --> B2[Abertura do Processo: Criação do processo no SEI pela DAT]
-        B2 --> B3[Encaminhamento: Envio do processo à Diretoria de Pessoal]
-        B3 --> B4[Análise: Avaliação do pedido pela Diretoria de Pessoal]
+        B2 --> B3[Encaminhamento: Envio do processo à DP]
+        B3 --> B4[Análise: Avaliação do pedido pela DP]
         B4 --> B5[Resposta: Retorno do resultado ao processo]
         B5 --> B6[Comunicação: Notificação do servidor pela DAT]
     end
