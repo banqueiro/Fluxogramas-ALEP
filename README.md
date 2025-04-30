@@ -10,10 +10,10 @@
 
 
 
-💼 [Coordenadoria ou Segmento de Contabilidade](contabilidade.md)  
-📣 [Coordenadoria ou Segmento de Publicidade](pub.md)  
-📋 [Coordenadoria ou Segmento de Suprimentos](licitacao-dat.md)  
-📝 [Coordenadoria ou Segmento de Contratos](contratos.md)  
+💼 [Segmento de Contabilidade](contabilidade.md)  
+📣 [Segmento de Publicidade](pub.md)  
+📋 [Segmento de Suprimentos](licitacao-dat.md)  
+📝 [Segmento de Contratos](contratos.md)  
 
 
 ## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
