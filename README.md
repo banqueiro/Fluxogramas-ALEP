@@ -8,11 +8,13 @@
 ## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
 📜 [Fluxograma Geral](geral.md)  
 
+
 📂 [Segmento de Administração]()  
 💼 [Segmento de Contabilidade](contabilidade.md)  
+📝 [Segmento de Contratos](contratos.md)  
 📣 [Segmento de Publicidade](pub.md)  
 📋 [Segmento de Suprimentos](licitacao-dat.md)  
-📝 [Segmento de Contratos](contratos.md)  
+
 
 ### 📣 **Atividades do Segmento de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
