@@ -6,6 +6,9 @@
 
 
 ## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
+📜 [Organograma Geral](geral.md)  
+
+
 
 💼 [Coordenadoria ou Segmento de Contabilidade](contabilidade.md)  
 📣 [Coordenadoria ou Segmento de Publicidade](pub.md)  
