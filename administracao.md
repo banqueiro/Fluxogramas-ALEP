@@ -16,8 +16,8 @@ graph TD
         C1 --> C2[Justificativa: Elaboração das justificativas de faltas pela DAT]
         C2 --> C3[Anexação: Inclusão de atestados e declarações no processo]
         C3 --> C4[Relatório: Elaboração do relatório de horas pela DAT]
-        C4 --> C5[Encaminhamento: Envio do relatório à Diretoria de Pessoal]
-        C5 --> C6[Análise: Verificação e execução de descontos pela Diretoria de Pessoal]
+        C4 --> C5[Encaminhamento: Envio do relatório à DP]
+        C5 --> C6[Análise: Verificação e execução de descontos pela DP]
         C6 --> C7[Conclusão: Finalização do processo com confirmação da DP]
     end
 
