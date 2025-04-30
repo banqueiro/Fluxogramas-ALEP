@@ -6,22 +6,20 @@
 
 
 ## 🏢 **Mapeamento de Processos das Coordenadorias ou Segmentos da Diretoria de Apoio Técnico - DAT**
-📜 [Organograma Geral](geral.md)  
+📜 [Fluxograma Geral](geral.md)  
 
-
-
+📂 [Segmento de Administração]()
 💼 [Segmento de Contabilidade](contabilidade.md)  
 📣 [Segmento de Publicidade](pub.md)  
 📋 [Segmento de Suprimentos](licitacao-dat.md)  
 📝 [Segmento de Contratos](contratos.md)  
 
-
-## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
-
-### 📣 **Publicidade** 
+### 📣 **Atividades do Segmento de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
+
+## 🚀 Navegue pelos fluxogramas das distintas formas de contratações públicas   
 
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
