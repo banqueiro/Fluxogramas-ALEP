@@ -9,7 +9,7 @@
 📜 [Fluxograma Geral](geral.md)  
 
 
-📂 [Segmento de Administração]()  
+📂 [Segmento de Administração](administracao.md)  
 💼 [Segmento de Contabilidade](contabilidade.md)  
 📝 [Segmento de Contratos](contratos.md)  
 📣 [Segmento de Publicidade](pub.md)  
