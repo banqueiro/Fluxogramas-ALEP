@@ -1,15 +1,15 @@
 # 📜 Fluxogramas da Diretoria de Apoio Técnico - DAT 
 ## Assembleia Legislativa do Paraná
 
+📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados e gerais sobre as atividades desta diretoria, bem como os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos). 
+
 ## 🏢 **Mapeamento de Processos dos Segmentos da Diretoria de Apoio Técnico - DAT**
 📜 [Estrutura Geral da DAT](geral.md)  
-
-
 
 📌 [Fluxograma Diretoria de Apoio Técnico](diretoria.md)  
 📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 
-
+---
 
 
 📂 [Segmento de Administração](administracao.md)  
@@ -24,11 +24,11 @@
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
 
+---
+
+
 ### 🚀 **Atividades do Segmento de Suprimentos**  
 
-  📌 Licitações e Contratos - Lei 14.133/2021  
-
-📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados sobre os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos), bem como o mapeamento das atividades desta diretoria. 
 
 ### 📂 **Modalidades de Licitação**  
 🔹 [Pregão Eletrônico](pregao-eletronico.md)  
