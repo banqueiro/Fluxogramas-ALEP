@@ -6,7 +6,7 @@
 
 
 
-📌 [Fluxo Diretoria de Apoio Técnico](diretoria.md)  
+📌 [Fluxograma Diretoria de Apoio Técnico](diretoria.md)  
 📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 
 
