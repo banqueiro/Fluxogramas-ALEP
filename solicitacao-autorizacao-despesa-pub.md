@@ -1,60 +1,39 @@
-# Fluxograma de Solicitação/Autorização da Despesa - Publicidade
+# Fluxograma - Solicitação/Autorização da Despesa - Publicidade
 
 ```mermaid
-flowchart TD
-    A["Início do Processo"] --> B["Diretoria de Comunicação (DC):<br>Elaboração da Solicitação"]
-    B --> C["Elaborar Briefing da Campanha"]
-    C --> D["Definir Objetivo da Campanha"]
-    D --> E["Estimar Valor da Campanha"]
-    E --> F["Encaminhar para DG"]
-    
-    F --> G["Diretoria Geral (DG):<br>Análise Inicial"]
-    G --> H["Verificar Solicitação"]
-    H --> I["Encaminhar para DAT"]
-    
-    I --> J["DAT:<br>Análise Técnica"]
-    J --> K["Verificar Disponibilidade Orçamentária"]
-    K --> L["Elaborar Despacho Técnico"]
-    L --> M["Encaminhar para DG"]
-    
-    M --> N["DG:<br>Encaminhamento para Autorização"]
-    N --> O["Encaminhar para Comissão Executiva"]
-    
-    O --> P["Comissão Executiva:<br>Análise e Autorização"]
-    P --> Q{"Autorizado?"}
-    Q -->|Não| R["Devolver com Justificativa"]
-    R --> B
-    Q -->|Sim| S["Autorizar Campanha"]
-    
-    S --> T["DG:<br>Encaminhamento para Execução"]
-    T --> U["Encaminhar para DC"]
-    
-    U --> V["DC:<br>Solicitação para Agência"]
-    V --> W["Elaborar Ordem de Serviço"]
-    W --> X["Encaminhar Briefing para Agência"]
-    
-    X --> Y["Agência de Publicidade:<br>Desenvolvimento da Campanha"]
-    Y --> Z["Elaborar Proposta Criativa"]
-    Z --> AA["Elaborar Plano de Mídia"]
-    AA --> AB["Apresentar para DC"]
-    
-    AB --> AC["DC:<br>Análise da Proposta"]
-    AC --> AD{"Proposta Aprovada?"}
-    AD -->|Não| AE["Solicitar Ajustes"]
-    AE --> Y
-    AD -->|Sim| AF["Aprovar Campanha"]
-    
-    AF --> AG["DC:<br>Autorização para Execução"]
-    AG --> AH["Emitir Autorização de Veiculação"]
-    AH --> AI["Encaminhar para DAT"]
-    
-    AI --> AJ["DAT:<br>Registro e Controle"]
-    AJ --> AK["Registrar Campanha no Sistema"]
-    AK --> AL["Atualizar Planilha de Controle"]
-    AL --> AM["Fim do Processo de Solicitação"]
-    
-    subgraph "Observações Importantes"
-    OBS1["Recomenda-se prévia confirmação de saldos orçamentário e financeiro"]
-    OBS2["Dotação e disponibilidade devem ser confirmadas pela Coord. de Contabilidade"]
-    OBS3["Incluir Plano de Mídia atualizado após finalização da Campanha"]
+graph TD
+    %% Áreas à esquerda (conforme o modelo da imagem)
+    subgraph Áreas
+        REQUERIMENTO[REQUERIMENTO]
+        DC_MARKETING[DC / MARKETING]
+        DAT_CCONT[DAT / C. CONT]
+        DC_DIR_COM[DC / DIRETORIA DE COMUNICAÇÃO]
+        DG[DG / DIRETORIA-GERAL]
+        PROCURADORIA[PROCURADORIA-GERAL]
+        COMISSAO_EXEC[COMISSÃO EXECUTIVA]
+        DAT_PUB[DAT / PUBLICIDADE]
     end
+
+    %% Título do Processo
+    A[Solicitação/Autorização da Despesa - Publicidade] -->|I| B
+
+    %% Fluxo Principal
+    B[DC - Marketing<br>Abertura processo SEI<br>Elaborar Solicitação<br>5 dias] -->|II| C
+    C[DAT - Coord. de Contabilidade<br>Emitir Informação do saldo disponível<br>Inserir no Controle<br>Encaminhar ao DC<br>1 dia] -->|III| D
+    D[DC - Diretoria de Comunicação<br>Aprovação da Despesa<br>Verificar requisitos<br>Emitir Despacho de aprovação<br>Encaminhar à DG<br>1 dia] -->|IV| E
+    E[DG - Diretoria Geral<br>Manifestação/Despacho<br>Verificar requisitos<br>Encaminhar à Procuradoria-Geral<br>1 dia] -->|V| F
+    F[Procuradoria-Geral<br>Parecer Jurídico<br>Verificar requisitos<br>Emitir parecer jurídico<br>Encaminhar à DG<br>3 dias] -->|VI| G
+    G[DG - Diretoria Geral<br>Manifestação/Despacho<br>Verificar requisitos<br>Encaminhar à Comissão Executiva<br>1 dia] -->|VII| H
+    H[Comissão Executiva<br>Autorização da Despesa<br>Verificar requisitos<br>Emitir Autorização da Despesa<br>Assinatura da Comissão<br>1 dia] -->|VIII| I
+    I[DAT - Coord. de Contabilidade<br>Realização do Empenho<br>Elaborar Nota de Empenho<br>Encaminhar ao DAT/Publicidade<br>1 dia] -->|IX| J
+    J[DAT - Publicidade<br>OS/Ordem de Serviços<br>Elaborar Ordem de Serviços<br>Enviar à Agência<br>Incluir no SEI<br>1 dia] -->|X| K
+    K[DC - Marketing<br>Plano de Mídia<br>Incluir Plano de Mídia atualizado<br>1 dia] -->|XI| L[PAGAMENTO E VALIDAÇÃO DOS COMPROVANTES ATENDENDO REQUISITOS<br>Transparência]
+
+    %% Estilização para seguir o modelo da imagem
+    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
+    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
+    classDef transparencia fill:#90EE90,stroke:#333,stroke-width:2px;
+
+    class REQUERIMENTO,DC_MARKETING,DAT_CCONT,DC_DIR_COM,DG,PROCURADORIA,COMISSAO_EXEC,DAT_PUB area;
+    class A,B,C,D,E,F,G,H,I,J,K tarefa;
+    class L transparencia;
