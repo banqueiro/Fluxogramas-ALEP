@@ -1,4 +1,4 @@
-# Fluxograma - Processo de Pagamentos Publicidade
+# Fluxograma - Processo de Pagamentos de Publicidade
 
 ```mermaid
 graph TD
@@ -8,7 +8,7 @@ graph TD
         DC_MARKETING[DC / MARKETING]
         DC_DIR_COM[DC / DIRETORIA DE COMUNICAÇÃO]
         DAT_CCONT[DAT / C. CONT]
-        DAT[DAT / DIRETORIA DE APOIO TÉCNICO]
+        DAT_APOIO[DAT / DIRETORIA DE APOIO TÉCNICO]
         DG[DG / DIRETORIA-GERAL]
         DF[DF - DIRETORIA FINANCEIRA]
         SGP_1SEC[SGP E 1ª SECRETARIA]
