@@ -19,6 +19,9 @@
 📋 [Segmento de Suprimentos](licitacao-dat.md)  
 
 
+---
+
+
 ### 📣 **Atividades do Segmento de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
