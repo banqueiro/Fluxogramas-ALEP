@@ -6,10 +6,10 @@
 
 
 ## 🏢 **Mapeamento de Processos dos Segmentos da Diretoria de Apoio Técnico - DAT**
-📌 [Fluxo Diretoria de Apoio Técnico](diretoria.md)  
-📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 📜 [Fluxograma Geral](geral.md)  
 
+📌 [Fluxo Diretoria de Apoio Técnico](diretoria.md)  
+📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 
 
 📂 [Segmento de Administração](administracao.md)  
