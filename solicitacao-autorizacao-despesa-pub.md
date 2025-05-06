@@ -4,7 +4,6 @@
 graph TD
     %% Áreas à esquerda (conforme o modelo da imagem)
     subgraph Áreas
-        REQUERIMENTO[REQUERIMENTO]
         DC_MARKETING[DC / MARKETING]
         DAT_CCONT[DAT / C. CONT]
         DC_DIR_COM[DC / DIRETORIA DE COMUNICAÇÃO]
