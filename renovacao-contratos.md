@@ -1,2 +1,1 @@
-# Fluxograma de Renovação de Contratos
-```mermaid
+# Fluxograma - Renovação de Contrato
