@@ -24,8 +24,8 @@ graph TD
     I -->|VII| J
     J -->|VIII| K[DG<br>Analisa<br>Encaminha para DF<br>1 dia]
     K -->|IX| L[DF<br>Analisa<br>Prepara ordem de pagamento<br>Encaminha para DG<br>0 dias]
-    L -->|X| M[DG<br>Prepara autorização de pagamento<br>Encaminha para SECRETARIA<br>1 dia]
-    M -->|XI| N[SECRETARIA<br>Assina autorização de pagamento<br>Encaminha para DF<br>1 dia]
+    L -->|X| M[DG<br>Prepara autorização de pagamento<br>Encaminha para 1 SECRETARIA<br>1 dia]
+    M -->|XI| N[1 SECRETARIA<br>Assina autorização de pagamento<br>Encaminha para DF<br>1 dia]
     N -->|XII| O[DF<br>Realiza depósito de pagamento<br>Anexa comprovação no SEI<br>Encaminha para DAT<br>1 dia]
     O -->|XIII| P[DAT<br>Finaliza processo<br>0 dias]
     P --> Q[Fim]
