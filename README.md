@@ -23,10 +23,10 @@
 
 
 ### 📝 **Atividades do Segmento de Contratos** 
-🔹 [Cadastro de Contratos](solicitacao-autorizacao-despesa-pub.md)  
-🔹 [Ressuprimento](processo-pagamento-pub.md)  
-🔹 [Processo de Liquidação](processo-pagamento-pub.md)  
-🔹 [Renovação de Contratos](processo-pagamento-pub.md)  
+🔹 [Cadastro de Contratos](cad_contratos.md)  
+🔹 [Ressuprimento](ressuprimento.md)  
+🔹 [Processo de Liquidação](proc-liquidacao.md)  
+🔹 [Renovação de Contratos](renovacao-contratos.md)  
 
 
 ---
