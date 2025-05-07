@@ -22,6 +22,16 @@
 ---
 
 
+### 📝 **Atividades do Segmento de Contratos** 
+🔹 [Cadastro de Contratos](solicitacao-autorizacao-despesa-pub.md)  
+🔹 [Ressuprimento](processo-pagamento-pub.md)  
+🔹 [Processo de Liquidação](processo-pagamento-pub.md)  
+🔹 [Renovação de Contratos](processo-pagamento-pub.md)  
+
+
+---
+
+
 ### 📣 **Atividades do Segmento de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
