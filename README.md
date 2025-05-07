@@ -40,7 +40,7 @@
 ---
 
 
-### 🚀 **Atividades do Segmento de Suprimentos**  
+### 📋 **Atividades do Segmento de Suprimentos**  
 
 
 ### 📂 **Modalidades de Licitação**  
