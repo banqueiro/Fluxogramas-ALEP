@@ -6,7 +6,7 @@ graph TD
         DAT[DAT]
         CONTABILIDADE[DAT / CONTABILIDADE]
         CONTRATOS[DAT / CONTRATOS]
-        DG[Diretoria Geral]
+        DG[DG Diretoria Geral]
         SECRETARIA[1&ordf; Secretaria]
         EMPRESA[Empresa]
     end
