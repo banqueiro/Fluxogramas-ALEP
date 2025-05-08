@@ -28,10 +28,7 @@ graph TD
     J[DAT - Publicidade<br>OS/Ordem de Serviços<br>Elaborar Ordem de Serviços<br>Enviar à Agência<br>Incluir no SEI<br>1 dia] -->|X| K
     K[DC - Marketing<br>Plano de Mídia<br>Incluir Plano de Mídia atualizado<br>1 dia] -->|XI| L[PAGAMENTO E VALIDAÇÃO DOS COMPROVANTES ATENDENDO REQUISITOS<br>Transparência]
 
-    %% Estilização para seguir o modelo da imagem
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
-    classDef transparencia fill:#90EE90,stroke:#333,stroke-width:2px;
+    
 
     class REQUERIMENTO,DC_MARKETING,DAT_CCONT,DC_DIR_COM,DG,PROCURADORIA,COMISSAO_EXEC,DAT_PUB area;
     class A,B,C,D,E,F,G,H,I,J,K tarefa;
