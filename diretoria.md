@@ -70,10 +70,7 @@ graph LR
     F -->|Pagamentos| G
     F -->|Aditivos/Relatórios| H[Diretoria de Comunicação]
 
-    %% Estilização
-    classDef default fill:#e6f3ff,stroke:#333,stroke-width:1px
-    classDef diretor fill:#b3d9ff,stroke:#333,stroke-width:1px
-    classDef coord fill:#99ccff,stroke:#333,stroke-width:1px
+   
 
     class A,B diretor
     class C,D,E,F,G coord
