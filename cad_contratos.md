@@ -22,8 +22,7 @@ graph TD
     I -->|IX| J[CONTRATOS<br>Insere dados na planilha e relatório<br>Confere Portal da Transparência<br>Envia ordem de serviço para empresa<br>Encerrar processo e avisar área demandante<br>0 dias]
     J --> K[Fim]
 
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
+    
 
     class DAT,CONTABILIDADE,CONTRATOS,DG,SECRETARIA,EMPRESA area;
     class A,B,C,D,E,F,G,H,I,J,K tarefa;
