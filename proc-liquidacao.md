@@ -30,8 +30,6 @@ graph TD
     O -->|XIII| P[DAT<br>Finaliza processo<br>0 dias]
     P --> Q[Fim]
 
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
-
+   
     class DAT,SUPRIMENTOS,CONTABILIDADE,FISCAL,DG,DF,SECRETARIA area;
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q tarefa;
