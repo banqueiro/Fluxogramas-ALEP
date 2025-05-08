@@ -22,8 +22,7 @@ graph TD
     I -->|VI| K
     J -->|VI| K
 
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
+    
 
     class GESTAO_CONTRATOS,DIRETORIA_DEMANDANTE,FORNECEDOR,COORD_SUPRIMENTOS area;
     class A,B,C,D,E,F,G,H,I,J,K tarefa;
