@@ -30,8 +30,7 @@ graph TD
     O -->|XV| P[DG<br>Encaminha para pagamento<br>1 dia]
     P --> Q[Fim]
 
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
+    
 
     class DEMANDANTE,DG,DAT,SUPRIMENTOS,CONTABILIDADE,SECRETARIA,ALMOXARIFADO,CONTRATADO area;
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q tarefa;
