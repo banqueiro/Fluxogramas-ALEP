@@ -34,10 +34,7 @@ graph TD
     N[Fornecedor<br>Comprovante de Pagamento<br>Salvar no Drive<br>3 dias] -->|XIV| O
     O[DAT - Publicidade<br>Conferir Comprovante de Pagamento<br>Subir ao SEI<br>Atualizar Controle Administrativo<br>Finalizar Processo SEI<br>5 dias] -->|XV| P[PAGAMENTO E VALIDAÇÃO DOS COMPROVANTES ATENDENDO REQUISITOS<br>Transparência]
 
-    %% Estilização para seguir o modelo da imagem
-    classDef area fill:#003087,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef tarefa fill:#B0C4DE,stroke:#333,stroke-width:2px;
-    classDef transparencia fill:#90EE90,stroke:#333,stroke-width:2px;
+   
 
     class REQUERIMENTO,DAT_PUB,DC_MARKETING,DC_DIR_COM,DAT_CCONT,DAT_APOIO,DG,DF,SGP_1SEC,FORNECEDOR area;
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O tarefa;
