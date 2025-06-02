@@ -18,6 +18,12 @@
 📣 [Segmento de Publicidade](pub.md)  
 📋 [Segmento de Suprimentos](licitacao-dat.md)  
 
+---
+
+
+### 💼 **Atividades do Segmento de Contabilidade** 
+🔹 [Transferências de Recursos para o Tesouro](transf-tesouro.md)  
+
 
 ---
 
