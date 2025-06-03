@@ -12,23 +12,23 @@
 ---
 
 
-📂 [Segmento de Administração](administracao.md)  
-💼 [Segmento de Contabilidade](contabilidade.md)  
-📝 [Segmento de Contratos](contratos.md)  
-📣 [Segmento de Publicidade](pub.md)  
-📋 [Segmento de Suprimentos](licitacao-dat.md)  
+📂 [Coordenadoria Geral](administracao.md)  
+💼 [Coordenadoria de Contabilidade](contabilidade.md)  
+📝 [Coordenadoria de Contratos](contratos.md)  
+📣 [Coordenadoria de Publicidade](pub.md)  
+📋 [Coordenadoria de Suprimentos](licitacao-dat.md)  
 
 ---
 
 
-### 💼 **Atividades do Segmento de Contabilidade** 
+### 💼 **Atividades da Coordenadoria de Contabilidade** 
 🔹 [Transferências de Recursos para o Tesouro](transf-tesouro.md)  
 
 
 ---
 
 
-### 📝 **Atividades do Segmento de Contratos** 
+### 📝 **Atividades da Coordenadoria de Contratos** 
 🔹 [Cadastro de Contratos](cad_contratos.md)  
 🔹 [Ressuprimento](ressuprimento.md)  
 🔹 [Processo de Liquidação](proc-liquidacao.md)  
@@ -38,7 +38,7 @@
 ---
 
 
-### 📣 **Atividades do Segmento de Publicidade** 
+### 📣 **Atividades da Coordenadoria de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
@@ -46,7 +46,7 @@
 ---
 
 
-### 📋 **Atividades do Segmento de Suprimentos**  
+### 📋 **Atividades da Coordenadoria de Suprimentos**  
 
 
 ### 📂 **Modalidades de Licitação**  
