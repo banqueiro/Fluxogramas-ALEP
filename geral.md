@@ -1,7 +1,7 @@
 ```mermaid
 graph TD
-    A[Diretoria de Apoio Técnico] --> B[DAT Administração]
-    B --> C[Segmento de Contabilidade]
-    B --> D[Segmento de Contratos]
-    B --> E[Segmento de Suprimentos]
-    B --> F[Segmento de Publicidade]
+    A[Diretoria de Apoio Técnico] --> B[Coordenadoria Geral]
+    B --> C[Coordenadoria de Contabilidade]
+    B --> D[Coordenadoria de Contratos]
+    B --> E[Coordenadoria de Suprimentos]
+    B --> F[Coordenadoria de Publicidade]
