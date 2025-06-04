@@ -40,6 +40,7 @@
 
 ### 📣 **Atividades da Coordenadoria de Publicidade** 
 🔹 [Solicitação de Autorização de Despesas de Publicidade](solicitacao-autorizacao-despesa-pub.md)  
+🔹 [Solicitação de Autorização de Despesas de Publicidade - Sessão Pública](solicitacao-autorizacao-despesa-pub-sess-pub.md)  
 🔹 [Processo de Pagamento de Publicidade](processo-pagamento-pub.md)  
 
 
