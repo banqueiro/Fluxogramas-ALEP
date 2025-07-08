@@ -5,6 +5,7 @@
 
 ## 🏢 **Mapeamento de Processos da Diretoria de Apoio Técnico - DAT**
 📜 [Estrutura Geral da DAT](geral.md)  
+📜 [Estrutura Detalhada da DAT](despacho-parte1-dat61-2023.md)  
 
 📌 [Fluxograma Diretoria de Apoio Técnico](diretoria.md)  
 📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
