@@ -3,7 +3,7 @@
 
 📌 **Bem-vindo!** Este repositório contém fluxogramas detalhados e gerais sobre as atividades desta diretoria, bem como os processos de contratação pública, de acordo com a **Lei 14.133/2021** (Nova Lei de Licitações e Contratos). 
 
-## 🏢 **Mapeamento de Processos dos Segmentos da Diretoria de Apoio Técnico - DAT**
+## 🏢 **Mapeamento de Processos da Diretoria de Apoio Técnico - DAT**
 📜 [Estrutura Geral da DAT](geral.md)  
 
 📌 [Fluxograma Diretoria de Apoio Técnico](diretoria.md)  
