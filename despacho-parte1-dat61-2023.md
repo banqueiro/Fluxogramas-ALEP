@@ -1,40 +1,62 @@
-# DIRETOR DE APOIO TÉCNICO
-
-**Regulamentações**:
-- Lei nº 14.133/2021 (Nova Lei de Licitações);
-- Lei nº 4.320/1964;
-- Ato da Comissão Executiva nº [inserir número].
-
-O Diretor de Apoio Técnico supervisiona e controla as atividades técnicas e administrativas da DAT, incluindo licitações, gestão orçamentária, contratos e elaboração de demonstrativos financeiros.
-
-**Pontos Críticos**:
-- **Descrição**:
-  - Atrasos na aprovação de processos licitatórios podem comprometer aquisições.
-  - Erros na gestão orçamentária podem afetar a conformidade com a Lei de Responsabilidade Fiscal.
-  - Falta de articulação com outras diretorias pode gerar retrabalho.
-- **Ações Mitigadoras**:
-  - Estabelecimento de cronogramas claros para licitações e orçamentos.
-  - Revisão rigorosa de demonstrativos financeiros.
-  - Comunicação contínua com outras diretorias.
-
-**Fluxograma de Atividades do Diretor de Apoio Técnico**  
-*Regulamentação*: Lei nº 14.133/2021; Lei nº 4.320/1964
-
-1. Planejamento: Definir diretrizes para licitações e orçamento.  
-2. Supervisão: Acompanhar licitações e processos de dispensa/inexigibilidade.  
-3. Controle: Monitorar saldos de contratos e aditivos.  
-4. Registro: Supervisionar registros orçamentários e financeiros.  
-5. Proposta: Coordenar elaboração da proposta orçamentária.  
-6. Relatórios: Aprovar balancetes e demonstrativos mensais.  
-7. Conformidade: Assegurar conformidade com a legislação.
+# Fluxograma de Atividades da Diretoria de Apoio Técnico
 
 ```mermaid
 graph TD
-    A[Planejamento: Definir diretrizes para licitações e orçamento] --> B[Supervisão: Acompanhar licitações e processos de dispensa/inexigibilidade]
-    B --> C[Controle: Monitorar saldos de contratos e aditivos]
-    C --> D[Registro: Supervisionar registros orçamentários e financeiros]
-    D --> E[Proposta: Coordenar elaboração da proposta orçamentária]
-    E --> F[Relatórios: Aprovar balancetes e demonstrativos mensais]
-    F --> G[Conformidade: Assegurar conformidade com a legislação]
+    A[Diretoria de Apoio Técnico] -->|Diretor| B1[Planejar: Definir diretrizes para licitações e orçamento]
+    A -->|Chefia de Gabinete| C1[Assessorar: Preparar materiais para o Diretor]
+    A -->|Contabilidade| D1[Planejar: Contribuir para proposta orçamentária]
+    A -->|Suprimentos| E1[Solicitar: Receber demandas de compras]
+    A -->|Contratos| F1[Controlar: Monitorar saldos e vigências de contratos]
+    A -->|Publicidade| G1[Solicitar: Receber demandas de publicidade no SEI]
 
+    subgraph Diretor de Apoio Técnico
+        B1 --> B2[Supervisionar: Acompanhar licitações e dispensa/inexigibilidade]
+        B2 --> B3[Controlar: Monitorar saldos de contratos e aditivos]
+        B3 --> B4[Registrar: Supervisionar atos orçamentários e financeiros]
+        B4 --> B5[Elaborar: Coordenar proposta orçamentária]
+        B5 --> B6[Executar: Aprovar balancetes e demonstrativos]
+        B6 --> B7[Assegurar: Garantir conformidade legal]
+    end
 
+    subgraph Chefia de Gabinete
+        C1 --> C2[Coordenar: Supervisionar servidores da DAT]
+        C2 --> C3[Elaborar: Redigir atos normativos e correspondências]
+        C3 --> C4[Receber: Gerenciar entrada de processos no SEI]
+        C4 --> C5[Acompanhar: Monitorar fluxo de processos]
+        C5 --> C6[Finalizar: Arquivar ou encaminhar processos]
+    end
+
+    subgraph Coordenadoria de Contabilidade
+        D1 --> D2[Registrar: Registrar operações contábeis]
+        D2 --> D3[Empenhar: Emitir notas de empenho]
+        D3 --> D4[Liquidar: Verificar despesas autorizadas]
+        D4 --> D5[Elaborar: Produzir balancetes e balanços]
+        D5 --> D6[Prestar Contas: Consolidar relatórios contábeis]
+        D6 --> D7[Publicar: Disponibilizar demonstrativos no Portal da Transparência]
+    end
+
+    subgraph Coordenadoria de Suprimentos
+        E1 --> E2[Planejar: Elaborar termos de referência]
+        E2 --> E3[Licitar: Conduzir licitações ou dispensa/inexigibilidade]
+        E3 --> E4[Julgar: Avaliar propostas e habilitar fornecedores]
+        E4 --> E5[Contratar: Formalizar contratos ou aditivos]
+        E5 --> E6[Cadastrar: Atualizar cadastro de fornecedores]
+        E6 --> E7[Acompanhar: Monitorar execução das aquisições]
+    end
+
+    subgraph Coordenadoria Administrativa de Contratos
+        F1 --> F2[Emitir: Gerar ordens de serviço e empenhos]
+        F2 --> F3[Notificar: Enviar sanções ou multas contratuais]
+        F3 --> F4[Verificar: Conferir regularidade fiscal]
+        F4 --> F5[Analisar: Avaliar pedidos de repactuação/reequilíbrio]
+        F5 --> F6[Avisar: Notificar vencimentos de contratos]
+    end
+
+    subgraph Coordenadoria Administrativa de Publicidade
+        G1 --> G2[Instruir: Abrir processo no sistema eletrônico]
+        G2 --> G3[Emitir: Gerar ordens de serviço para Diretoria de Comunicação]
+        G3 --> G4[Verificar: Analisar conformidade documental]
+        G4 --> G5[Encaminhar: Enviar processo à Diretoria Financeira]
+        G5 --> G6[Relatar: Elaborar e validar relatórios de gastos]
+        G6 --> G7[Publicar: Disponibilizar relatórios no Portal da Transparência]
+    end
