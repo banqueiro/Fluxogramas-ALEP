@@ -109,7 +109,7 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!
 📗 **Decreto nº 7.892/2013** (Sistema de Registro de Preços)  
 ⚖ **Jurisprudência do TCU**  
 
-📌 **Desenvolvido por @md_web3 e @md__web3 para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.**  
+📌 **Desenvolvido por Diego Maldonado para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.**  
 📜 **Licença**: [MIT](LICENSE)  
 
 📩 *Dúvidas ou sugestões? Entre em contato!*  
