@@ -16,14 +16,6 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 - [Como contribuir](#como-contribuir)
 - [Referências](#referências)
 
-## Estrutura Geral e Organograma
-
-📜 [Estrutura Geral da DAT](geral.md)  
-📜 [Organograma Geral da DAT](oficio48-dat.md)  
-📜 [Atribuições da DAT](despacho-parte1-dat61-2023.md)  
-📌 [Fluxograma Completo da Diretoria](diretoria.md)  
-📌 [Descritivo da Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)
-
 ---
 
 ## 🏢 **Mapeamento de Processos da Diretoria de Apoio Técnico - DAT**
@@ -34,6 +26,17 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 
 ---
+
+## Estrutura Geral e Organograma
+
+📜 [Estrutura Geral da DAT](geral.md)  
+📜 [Organograma Geral da DAT](oficio48-dat.md)  
+📜 [Atribuições da DAT](despacho-parte1-dat61-2023.md)  
+📌 [Fluxograma Completo da Diretoria](diretoria.md)  
+📌 [Descritivo da Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)
+
+---
+
 ## Fluxogramas por Coordenadoria
 📂 [Chefia de Gabinete](administracao.md)  
 📝 [Coordenadoria de Contratos](contratos.md)  
