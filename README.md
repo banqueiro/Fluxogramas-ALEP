@@ -133,7 +133,6 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!
 ⚖ **Jurisprudência do TCU**  
 
 📌 **Desenvolvido por Diego Maldonado para a Diretoria de Apoio Técnico da Assembleia Legislativa do Paraná.**  
-📜 **Licença**: [MIT](LICENSE)  
 📩 *Dúvidas ou sugestões? Entre em contato!*  
 
 ---
