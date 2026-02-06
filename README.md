@@ -140,7 +140,7 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!
 🌟 **Se este repositório foi útil para você, deixe uma ⭐ estrela!**  
 
 
-**Organograma resumido (exemplo):**
+**Organograma resumido:**
 
 ```mermaid
 flowchart TB
