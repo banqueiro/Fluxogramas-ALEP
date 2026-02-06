@@ -18,10 +18,10 @@ graph TD
     end
 
     subgraph Chefia de Gabinete
-        C1 --> C2[Coordenar: Supervisionar servidores da DAT]
+        C1 --> C2[Administrar: Adequar e gerir as demandas dos Sistemas e dos servidores da DAT]
         C2 --> C3[Elaborar: Redigir atos normativos e correspondências]
-        C3 --> C4[Receber: Gerenciar entrada de processos no SEI]
-        C4 --> C5[Acompanhar: Monitorar fluxo de processos]
+        C3 --> C4[Receber: Acompanhar e gerir o fluxo de processos da diretoria e suas coordenadorias]
+        C4 --> C5[Organizar: Acompanhar e publicar o Plano de Contratação Anual da ALEP]
         C5 --> C6[Finalizar: Arquivar ou encaminhar processos]
    
     end
