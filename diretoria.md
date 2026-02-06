@@ -12,18 +12,20 @@ graph LR
     end
 
     %% Conexões do Diretor com Coordenadorias
-    B --> C[Coord.-Geral]
+    B --> C[Chefia de Gabinete]
     B --> D[Coord. Suprimentos]
     B --> E[Coord. Contratos]
     B --> F[Coord. Publicidade]
 
 
-    %% Coordenadoria-Geral
+    %% Chefia de Gabinete
     subgraph CoordGeral
         C --> C1[Assessorar Diretor]
         C --> C2[Coordenar servidores]
         C --> C3[Elaborar atos normativos]
         C --> C4[Gerir processos]
+        C --> C5[Elaborar Plano Anual de Compras da ALEP]
+        C --> C6[Administrar o Sistema ContratosGOV]
     end
 
     %% Coordenadoria de Suprimentos
