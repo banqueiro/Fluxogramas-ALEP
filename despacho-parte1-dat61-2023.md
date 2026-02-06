@@ -4,7 +4,6 @@
 graph TD
     A[Diretoria de Apoio Técnico] -->|Diretor| B1[Planejar: Definir diretrizes para licitações e orçamento]
     A -->|Chefia de Gabinete| C1[Assessorar: Preparar materiais para o Diretor]
-    A -->|Contabilidade| D1[Planejar: Contribuir para proposta orçamentária]
     A -->|Suprimentos| E1[Solicitar: Receber demandas de compras]
     A -->|Contratos| F1[Controlar: Monitorar saldos e vigências de contratos]
     A -->|Publicidade| G1[Solicitar: Receber demandas de publicidade no SEI]
@@ -24,15 +23,7 @@ graph TD
         C3 --> C4[Receber: Gerenciar entrada de processos no SEI]
         C4 --> C5[Acompanhar: Monitorar fluxo de processos]
         C5 --> C6[Finalizar: Arquivar ou encaminhar processos]
-    end
-
-    subgraph Coordenadoria de Contabilidade
-        D1 --> D2[Registrar: Registrar operações contábeis]
-        D2 --> D3[Empenhar: Emitir notas de empenho]
-        D3 --> D4[Liquidar: Verificar despesas autorizadas]
-        D4 --> D5[Elaborar: Produzir balancetes e balanços]
-        D5 --> D6[Prestar Contas: Consolidar relatórios contábeis]
-        D6 --> D7[Publicar: Disponibilizar demonstrativos no Portal da Transparência]
+   
     end
 
     subgraph Coordenadoria de Suprimentos
