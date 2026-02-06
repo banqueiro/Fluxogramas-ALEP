@@ -66,4 +66,4 @@ graph LR
    
 
     class A,B diretor
-    class C,D,E,F,G coord
+    class C,D,E,F, coord
