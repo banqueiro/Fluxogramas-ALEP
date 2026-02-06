@@ -34,9 +34,8 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 📌 [Descritivo Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)  
 
 ---
-
-📂 [Coordenadoria Geral](administracao.md)  
-💼 [Coordenadoria de Contabilidade](contabilidade.md)  
+## Fluxogramas por Coordenadoria
+📂 [Chefia de Gabinete](administracao.md)  
 📝 [Coordenadoria de Contratos](contratos.md)  
 📣 [Coordenadoria de Publicidade](pub.md)  
 📋 [Coordenadoria de Suprimentos](licitacao-dat.md)  
@@ -58,6 +57,7 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 
 ---
 
+## Processos de Contratação Pública
 ### 📋 **Atividades da Coordenadoria de Suprimentos**  
 
 ### 📂 **Modalidades de Licitação**  
