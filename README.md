@@ -142,10 +142,12 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!
 
 **Organograma resumido (exemplo):**
 
+**Organograma resumido (exemplo):**
+
 ```mermaid
 flowchart TD
-    A[Assembleia Legislativa do Paraná] --> B[Diretoria de Apoio Técnico - DAT]
-    B --> C[Chefia de Gabinete]
-    B --> D[Coordenadoria de Compras Públicas / Suprimentos]
-    B --> E[Coordenadoria de Gestão de Contratos]
-    B --> F[Coordenadoria de Publicidade Institucional]
+    A["Assembleia Legislativa do Paraná"] --> B["Diretoria de Apoio Técnico - DAT"]
+    B --> C["Chefia de Gabinete"]
+    B --> D["Coordenadoria de Compras Públicas / Suprimentos"]
+    B --> E["Coordenadoria de Gestão de Contratos"]
+    B --> F["Coordenadoria de Publicidade Institucional"]
