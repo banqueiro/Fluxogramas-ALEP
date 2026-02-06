@@ -4,10 +4,9 @@ flowchart TB
     A[Diretoria de Apoio Técnico] --> 
     F[Chefia de Gabinete] --> Z{{ }}
 
-    Z --> B[Coordenadoria de Contabilidade]
-    Z --> C[Coordenadoria de Contratos]
-    Z --> D[Coordenadoria de Suprimentos]
-    Z --> E[Coordenadoria de Publicidade]
+    Z --> B[Coordenadoria de Contratos]
+    Z --> C[Coordenadoria de Suprimentos]
+    Z --> D[Coordenadoria de Publicidade]
     
     %% Organiza as coordenadorias em linha
     subgraph Coordenadorias
@@ -15,5 +14,5 @@ flowchart TB
         B
         C
         D
-        E
+        
     end
