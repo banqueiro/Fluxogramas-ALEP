@@ -45,10 +45,10 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 ### 📝 **Atividades da Chefia de Gabinete** 
 🔹 [Assessorar Diretor](assessorar-diretor.md)  
 🔹 [Elaborar Atos Normativos](elaborar-atos.md)  
-🔹 [Atividades Correlatas](proc-liquidacao.md)  
-🔹 [Gerir Fluxo de Processos](renovacao-contratos.md)  
-🔹 [Administrar Sistemas](ressuprimento.md)  
-🔹 [Plano de Contratação Anual](proc-liquidacao.md)  
+🔹 [Atividades Correlatas](atividades-correlatas.md)  
+🔹 [Gerir Fluxo de Processos](gerir-processos.md)  
+🔹 [Administrar Sistemas](adm-sistemas.md)  
+🔹 [Plano de Contratação Anual](pca.md)  
 
 ---
 
