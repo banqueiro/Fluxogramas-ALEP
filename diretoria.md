@@ -21,11 +21,11 @@ graph LR
     %% Chefia de Gabinete
     subgraph CoordGeral
         C --> C1[Assessorar Diretor]
-        C --> C2[Coordenar servidores]
+        C --> C2[Administrar Sistemas e Servidores]
         C --> C3[Elaborar atos normativos]
         C --> C4[Gerir processos]
-        C --> C5[Elaborar Plano Anual de Compras da ALEP]
-        C --> C6[Administrar o Sistema ContratosGOV]
+        C --> C5[Elaborar e publicar o Plano de Contratação Anual da ALEP]
+        C --> C6[Atualizar, administrar e suegerir melhorias no fluxograma da DAT]
     end
 
     %% Coordenadoria de Suprimentos
