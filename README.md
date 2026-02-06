@@ -13,18 +13,10 @@
 ---
 
 
-📂 [Coordenadoria Geral](administracao.md)  
-💼 [Coordenadoria de Contabilidade](contabilidade.md)  
+📂 [Chefia de Gabinete](administracao.md)  
 📝 [Coordenadoria de Contratos](contratos.md)  
 📣 [Coordenadoria de Publicidade](pub.md)  
 📋 [Coordenadoria de Suprimentos](licitacao-dat.md)  
-
----
-
-
-### 💼 **Atividades da Coordenadoria de Contabilidade** 
-🔹 [Transferências de Recursos para o Tesouro](transf-tesouro.md)  
-
 
 ---
 
