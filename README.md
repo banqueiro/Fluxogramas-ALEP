@@ -1,13 +1,12 @@
 # 📜 Fluxogramas e Processos da Diretoria de Apoio Técnico (DAT)  
 **Assembleia Legislativa do Paraná**
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Última atualização](https://img.shields.io/github/last-commit/banqueiro/Fluxogramas-ALEP)
-![Estrelas](https://img.shields.io/github/stars/banqueiro/Fluxogramas-ALEP?style=social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+![Última atualização](https://img.shields.io/github/last-commit/banqueiro/Fluxogramas-ALEP)  
+![Estrelas](https://img.shields.io/github/stars/banqueiro/Fluxogramas-ALEP?style=social)  
 ![Forks](https://img.shields.io/github/forks/banqueiro/Fluxogramas-ALEP?style=social)
 
-Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e processos de contratação pública da Diretoria de Apoio Técnico (DAT) da Assembleia Legislativa do Paraná, em conformidade com a **Lei nº 14.133/2021** (Nova Lei de Licitações e Contratos Administrativos), decretos regulamentadores e jurisprudência do TCU.
+Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e processos de contratação pública da Diretoria de Apoio Técnico (DAT) da Assembleia Legislativa do Paraná, conforme **Lei nº 14.133/2021** (Nova Lei de Licitações), decretos e jurisprudência do TCU.
 
 ## Sumário
 - [Estrutura Geral e Organograma](#estrutura-geral-e-organograma)
@@ -25,7 +24,7 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 📌 [Fluxograma Completo da Diretoria](diretoria.md)  
 📌 [Descritivo da Diretoria de Apoio Técnico](diretoria_apoio_tecnico.md)
 
-**Exemplo rápido – Organograma resumido:**
+**Organograma resumido (exemplo):**
 
 ```mermaid
 flowchart TD
@@ -33,4 +32,4 @@ flowchart TD
     B --> C[Chefia de Gabinete]
     B --> D[Coordenadoria de Compras Públicas / Suprimentos]
     B --> E[Coordenadoria de Gestão de Contratos]
-    B --> F[Coordenadoria de Contratos de Publicidade Institucional]
+    B --> F[Coordenadoria de Publicidade Institucional]
