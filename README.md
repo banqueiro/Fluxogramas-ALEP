@@ -79,7 +79,7 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 
 ---
 
-## 📖 Como utilizar?  
+## Como utilizar  
 Cada arquivo contém fluxogramas em formato **Mermaid**, renderizados automaticamente pelo GitHub. Os fluxogramas incluem:  
 
 ✔ Distinção de Coordenadorias  
@@ -105,14 +105,14 @@ Cada arquivo contém fluxogramas em formato **Mermaid**, renderizados automatica
 
 ---
 
-## 👥 Como contribuir?  
+## Como contribuir
 
 💡 Identificou melhorias ou atualizações necessárias?  
 Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!  
 
 ---
 
-## 📜 Referências  
+## Referências
 
 📕 **Lei 14.133/2021** (Nova Lei de Licitações e Contratos)  
 📘 **Decreto nº 10.024/2019** (Pregão Eletrônico)  
