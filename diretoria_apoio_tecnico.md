@@ -16,13 +16,15 @@ Ao Diretor de Apoio Técnico compete:
 
 Compete, ainda, à Diretoria de Apoio Técnico:
 
-### I - Por meio da Coordenadoria-Geral:
+### I - Por meio da Chefia de Gabinete:
 
 a) assessorar o Diretor de Apoio Técnico no desempenho de suas funções, organizando e preparando materiais à consideração da Diretoria de Apoio Técnico;  
 b) coordenar e supervisionar os trabalhos dos demais servidores da Diretoria de Apoio Técnico;  
 c) elaborar os atos normativos e de correspondências da Diretoria de Apoio Técnico;  
 d) exercer outras atividades correlatas que lhe forem atribuídas pelo Diretor de Apoio Técnico;  
-e) receber, acompanhar e gerir o fluxo de processos da Diretoria de Apoio Técnico e de suas coordenadorias.
+e) receber, acompanhar e gerir o fluxo de processos da Diretoria de Apoio Técnico e de suas coordenadorias;
+f) elaborar o Plano Anual de Compras da ALEP em conjunto com as demais diretorias;
+g) administrar o sistema de gestão e fiscalização de contratos, ContratosGOV.
 
 ### II – Por meio da Coordenadoria de Suprimentos:
 
@@ -51,12 +53,3 @@ d) encaminhar as avaliações e/ou pedidos de aditivos contratuais e demais dema
 e) emitir relatórios administrativos com as informações dos gastos com os serviços de publicidade institucional e validá-los junto a Diretoria de Comunicação, bem como disponibilizá-los no Portal da Transparência;  
 f) desempenhar demais atividades administrativas correlacionadas à contratação dos serviços de publicidade institucional.
 
-### V – Por meio da Coordenadoria de Contabilidade:
-
-a) registrar as operações contábeis da Assembleia Legislativa elaborando os balancetes mensais e balanços anuais;  
-b) elaborar a prestação de contas da Assembleia Legislativa;  
-c) prestar informações relativas às operações contábeis;  
-d) confeccionar os atos de remanejamento orçamentário;  
-e) confeccionar os demonstrativos de despesas da Assembleia Legislativa;  
-f) registrar os empenhos de despesas autorizadas e liquidação;  
-g) controlar a execução orçamentária.
