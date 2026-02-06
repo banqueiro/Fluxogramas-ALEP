@@ -42,6 +42,16 @@ Fluxogramas detalhados em **Mermaid** sobre a estrutura, atribuições e process
 
 ---
 
+### 📝 **Atividades da Chefia de Gabinete** 
+🔹 [Assessorar Diretor](cad_contratos.md)  
+🔹 [Elaborar Atos Normativos](ressuprimento.md)  
+🔹 [Atividades Correlatas](proc-liquidacao.md)  
+🔹 [Gerir Fluxo de Processos](renovacao-contratos.md)  
+🔹 [Administrar Sistemas](ressuprimento.md)  
+🔹 [Plano de Contratação Anual](proc-liquidacao.md)  
+
+---
+
 ### 📝 **Atividades da Coordenadoria de Contratos** 
 🔹 [Cadastro de Contratos](cad_contratos.md)  
 🔹 [Ressuprimento](ressuprimento.md)  
