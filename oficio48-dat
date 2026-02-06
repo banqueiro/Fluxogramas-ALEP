@@ -1,0 +1,63 @@
+```mermaid
+
+graph LR
+
+    %% Diretoria
+    A[Diretoria de Apoio Técnico] --> B[Diretor de Apoio Técnico]
+
+    %% Conexões com setores
+    B --> C[Chefia de Gabinete]
+    B --> D[Coord. Compras Públicas]
+    B --> E[Coord. Gestão de Contratos]
+    B --> F[Coord. Contratos de Publicidade Institucional]
+
+
+    %% Chefia de Gabinete
+    subgraph ChefiaGabinete
+        C --> C1[Assessorar o Diretor]
+        C --> C2[Elaborar atos normativos e correspondências]
+        C --> C3[Gerir fluxo de processos]
+        C --> C4[Gerenciar sistemas da diretoria]
+        C --> C5[Organizar Plano de Contratação Anual]
+        C --> C6[Executar atividades correlatas]
+    end
+
+
+    %% Compras Públicas
+    subgraph ComprasPublicas
+        D --> D1[Organizar solicitações de compras]
+        D --> D2[Acompanhar licitações]
+        D --> D3[Dispensa e inexigibilidade]
+        D --> D4[Elaborar aditivos contratuais]
+        D --> D5[Atendimento e informações de licitações]
+    end
+
+
+    %% Gestão de Contratos
+    subgraph GestaoContratos
+        E --> E1[Controlar saldos e vigências]
+        E --> E2[Emitir ordens e empenhos]
+        E --> E3[Notificações e multas]
+        E --> E4[Verificar regularidade fiscal]
+        E --> E5[Analisar repactuação/reequilíbrio]
+        E --> E6[Monitorar pagamentos]
+        E --> E7[Controlar vencimentos contratuais]
+    end
+
+
+    %% Publicidade Institucional
+    subgraph Publicidade
+        F --> F1[Padronizar gestão contratual publicidade]
+        F --> F2[Providenciar ordens e atestados]
+        F --> F3[Controlar pagamentos]
+        F --> F4[Encaminhar aditivos]
+        F --> F5[Emitir relatórios transparência]
+        F --> F6[Atividades administrativas correlatas]
+    end
+
+
+    %% Relações operacionais entre setores
+    D -->|Gera contratos| E
+    E -->|Demandas publicidade| F
+    F -->|Relatórios| G[Portal da Transparência]
+
