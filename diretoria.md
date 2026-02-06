@@ -59,8 +59,6 @@ graph LR
 
     %% Conexões entre Coordenadorias
     D -->|Aditivos| E
-    E -->|Empenhos| G
-    F -->|Pagamentos| G
     F -->|Aditivos/Relatórios| H[Diretoria de Comunicação]
 
    
