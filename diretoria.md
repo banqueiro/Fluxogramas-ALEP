@@ -16,7 +16,7 @@ graph LR
     B --> D[Coord. Suprimentos]
     B --> E[Coord. Contratos]
     B --> F[Coord. Publicidade]
-    B --> G[Coord. Contabilidade]
+
 
     %% Coordenadoria-Geral
     subgraph CoordGeral
@@ -53,15 +53,6 @@ graph LR
         F --> F3[Controlar pagamentos]
         F --> F4[Encaminhar aditivos]
         F --> F5[Relatórios transparência]
-    end
-
-    %% Coordenadoria de Contabilidade
-    subgraph CoordContabilidade
-        G --> G1[Registrar operações]
-        G --> G2[Prestar contas]
-        G --> G3[Gerir remanejamento]
-        G --> G4[Registrar empenhos]
-        G --> G5[Controlar orçamento]
     end
 
     %% Conexões entre Coordenadorias
