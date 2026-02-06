@@ -143,9 +143,20 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!
 **Organograma resumido (exemplo):**
 
 ```mermaid
-flowchart TD
-    A[Assembleia Legislativa do Paraná] --> B[Diretoria de Apoio Técnico - DAT]
-    B --> C[Chefia de Gabinete]
-    B --> D[Coordenadoria de Compras Públicas / Suprimentos]
-    B --> E[Coordenadoria de Gestão de Contratos]
-    B --> F[Coordenadoria de Publicidade Institucional]
+flowchart TB
+    A[Diretoria de Apoio Técnico] --> Z{{ }}
+    A[Diretoria de Apoio Técnico] --> 
+    F[Chefia de Gabinete] --> Z{{ }}
+
+    Z --> B[Coordenadoria de Contratos]
+    Z --> C[Coordenadoria de Suprimentos]
+    Z --> D[Coordenadoria de Publicidade]
+    
+    %% Organiza as coordenadorias em linha
+    subgraph Coordenadorias
+        direction LR
+        B
+        C
+        D
+        
+    end
