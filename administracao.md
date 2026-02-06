@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    A[DAT Administração] -->|Férias| B1[Solicitação: Recebimento do pedido de férias do servidor]
+    A[Chefia de Gabinete] -->|Férias| B1[Solicitação: Recebimento do pedido de férias do servidor]
     A -->|Folha de Ponto| C1[Recebimento: Envio da folha de ponto pela DP à DAT]
     A -->|Plano de Contratação| D1[Elaboração: Criação inicial do Plano de Contratação Anual pela DAT]
 
